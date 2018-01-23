@@ -10,8 +10,19 @@ h1 {
   color: white;
 }
 
+h2 {
+  font-weight: 300;
+  color: white;
+}
+
+.par_1 {
+  font-size: 21px;
+  color: gray;
+}
+
 .app_link {
   color: Aquamarine;
+  font-size: 16px;
 }
 
 .footer {
